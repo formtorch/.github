@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="https://YOUR_LOGO_URL_HERE" alt="Formtorch" width="96" />
+  <img src="" alt="Formtorch Logo" width="96" />
 </p>
 
 <h1 align="center">Formtorch</h1>
 
 <p align="center">
-  A modern form backend for developers.
+  A modern form backend built for developers.
   <br />
+  Fast integration. Clean API. Secure by default.
+  <br /><br />
   <a href="https://formtorch.com/docs">Docs</a> ·
   <a href="https://formtorch.com">Website</a> ·
   <a href="https://github.com/formtorch/formtorch/issues">Issues</a>
@@ -16,26 +18,55 @@
 
 ## What is Formtorch?
 
-Formtorch helps you collect form submissions from static sites and apps without running your own backend.
-It’s built for developers who want a clean API, great DX, and simple deployment.
+Formtorch is a hosted form backend that lets you handle form submissions without building or maintaining your own server.
 
-## Get started
+Designed for indie developers, agencies, SaaS founders, and static site builders, Formtorch focuses on developer experience, performance, and simplicity.
 
-- 📘 Docs: https://formtorch.com/docs  
-- 🚀 Quickstart: https://formtorch.com/docs/quickstart  
-- 🔑 API Reference: https://formtorch.com/docs/api
+---
+
+## Core Features
+
+- Email notifications
+- Built-in spam protection (TorchWarden™)
+- Rate limiting
+- API key authentication
+- Dashboard for managing submissions
+- Input validation
+
+---
 
 ## Examples
 
-- HTML: https://github.com/formtorch/formtorch-html-example
-- Next.js: https://github.com/formtorch/formtorch-nextjs-example
-- React: https://github.com/formtorch/formtorch-react-example
-- Astro: https://github.com/formtorch/formtorch-astro-example
+Explore integration examples for popular frameworks:
+
+- [HTML Example](https://github.com/formtorch/formtorch-html-example)
+- [Next.js Example](https://github.com/formtorch/formtorch-nextjs-example)
+- [React Example](https://github.com/formtorch/formtorch-react-example)
+- [Astro Example](https://github.com/formtorch/formtorch-astro-example)
+
+More examples coming soon.
+
+---
+
+## Get Started
+
+1. Create a form at https://formtorch.com  
+2. Copy your endpoint and API key  
+3. Submit your form  
+
+See the full Quickstart guide:  
+https://formtorch.com/docs/quickstart
+
+---
 
 ## Support
 
-- General questions: support@formtorch.com
-- Bugs & feature requests: https://github.com/formtorch/formtorch/issues
-- Security vulnerabilities: security@formtorch.com
+- Bug reports & feature requests: https://github.com/formtorch/formtorch/issues  
+- General questions: support@formtorch.com  
+- Security disclosures: security@formtorch.com  
 
 ---
+
+<p align="center">
+  Built for modern web applications.
+</p>
