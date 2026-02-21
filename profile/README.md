@@ -5,7 +5,7 @@
 <h1 align="center">Formtorch</h1>
 
 <p align="center">
-  A lightweight form backend for modern websites & apps.
+  A modern form backend for developers.
   <br />
   <a href="https://formtorch.com/docs">Docs</a> ·
   <a href="https://formtorch.com">Website</a> ·
@@ -16,7 +16,7 @@
 
 ## What is Formtorch?
 
-Formtorch helps you collect form submissions from static sites and apps—without running your own backend.
+Formtorch helps you collect form submissions from static sites and apps without running your own backend.
 It’s built for developers who want a clean API, great DX, and simple deployment.
 
 ## Get started
@@ -27,13 +27,15 @@ It’s built for developers who want a clean API, great DX, and simple deploymen
 
 ## Examples
 
+- HTML: https://github.com/formtorch/formtorch-html-example
 - Next.js: https://github.com/formtorch/formtorch-nextjs-example
+- React: https://github.com/formtorch/formtorch-react-example
 - Astro: https://github.com/formtorch/formtorch-astro-example
 
 ## Support
 
 - General questions: support@formtorch.com
 - Bugs & feature requests: https://github.com/formtorch/formtorch/issues
-- Security vulnerabilities: security@formtorch.com (preferred)
+- Security vulnerabilities: security@formtorch.com
 
 ---
