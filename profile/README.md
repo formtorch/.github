@@ -20,7 +20,7 @@
 
 Formtorch is a hosted form backend that lets you handle form submissions without building or maintaining your own server.
 
-Designed for indie developers, agencies, SaaS founders, and static site builders, Formtorch focuses on developer experience, performance, and simplicity.
+Designed for indie developers, static site builders, agencies, and SaaS founders, Formtorch focuses on developer experience, performance, and simplicity.
 
 ---
 
@@ -43,6 +43,13 @@ Explore integration examples for popular frameworks:
 - [Next.js Example](https://github.com/formtorch/formtorch-nextjs-example)
 - [React Example](https://github.com/formtorch/formtorch-react-example)
 - [Astro Example](https://github.com/formtorch/formtorch-astro-example)
+- [Vue/Nuxt Example](https://github.com/formtorch/formtorch-nuxt-example)
+- [SvelteKit Example](https://github.com/formtorch/formtorch-sveltekit-example)
+- [Remix Example](https://github.com/formtorch/formtorch-remix-example)
+- [Contact Form Example](https://github.com/formtorch/formtorch-contact-form-example)
+- [File Upload Example](https://github.com/formtorch/formtorch-file-upload-example)
+- [Cloudflare Turnstile Example](https://github.com/formtorch/formtorch-turnstile-example)
+- [reCAPTCHA Example](https://github.com/formtorch/formtorch-recaptcha-example)
 
 More examples coming soon.
 
