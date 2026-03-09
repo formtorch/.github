@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="" alt="Formtorch Logo" width="96" />
-</p>
-
 <h1 align="center">Formtorch</h1>
 
 <p align="center">
